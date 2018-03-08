@@ -18,7 +18,7 @@
   "author": "Yu Hei Leung <yuhei@dapperapps.com.au>",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:applabsservice/rctpushnotification.git"
+    "url": "git@bitbucket.org:applabsservice/react-native-user-notifications.git"
   },
   "rnpm": {
     "ios": {
