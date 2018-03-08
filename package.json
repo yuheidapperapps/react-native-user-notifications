@@ -1,6 +1,6 @@
 {
   "name": "react-native-user-notifications",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Replacement for RCTPushNotification using UserNotifications",
   "main": "index.js",
   "scripts": {
