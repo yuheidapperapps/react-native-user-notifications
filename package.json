@@ -1,0 +1,28 @@
+{
+  "name": "react-native-user-notifications",
+  "version": "1.0",
+  "description": "Replacement for RCTPushNotification using UserNotifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UserNotifications",
+    "push-notification",
+    "react-native",
+    "ios"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "author": "Yu Hei Leung <yuhei@dapperapps.com.au>",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:applabsservice/rctpushnotification.git"
+  },
+  "rnpm": {
+    "ios": {
+      "project": "iOS/RCTPushNotification.xcodeproj"
+    }
+  }
+}
