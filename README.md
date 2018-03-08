@@ -11,7 +11,7 @@ Drop in replacement of PushNotificationIOS native module using UNNotifications. 
 3) In project "Build settings", search "Header Search Path", add line "$(SRCROOT)/Libraries/RCTPushNotification" with non-recursive
 4) In AppDelegate.m
 
-`
+<code>
 #import "AppDelegate.h"
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
@@ -69,7 +69,7 @@ Drop in replacement of PushNotificationIOS native module using UNNotifications. 
 
 @end
 
-`
+</code>
 
 ### Contact ###
 Yu Hei Leung
