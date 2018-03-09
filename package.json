@@ -1,5 +1,5 @@
 {
-  "name": "react-native-user-notifications",
+  "name": "@dapperapps/react-native-user-notifications",
   "version": "1.0.0",
   "description": "Replacement for RCTPushNotification using UserNotifications",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "author": "Yu Hei Leung <yuhei@dapperapps.com.au>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org:applabsservice/react-native-user-notifications.git"
+    "url": "git+https://github.com/yuheidapperapps/react-native-user-notifications.git"
   },
   "rnpm": {
     "ios": {
