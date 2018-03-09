@@ -1,5 +1,5 @@
 {
-  "name": "@dapperapps/react-native-user-notifications",
+  "name": "react-native-user-notifications",
   "version": "1.0.0",
   "description": "Replacement for RCTPushNotification using UserNotifications",
   "main": "index.js",
